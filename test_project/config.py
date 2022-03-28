@@ -1,0 +1,15 @@
+TOKEN = 'OTU3NTkxMDUxOTIzNzU5MTM0.YkBAKQ.Tof4YQ82dW_3dsii-r104L0EMA4' #bot's token
+
+POST_ID = 957896765951053824
+
+ROLES = {
+    '🐍': 957897582112292864, #python
+    '🍙': 957897775037706271, #anime
+    '#️⃣': 957897779122950144, #Csharp
+    '➕': 957898183042809906, #Cplus_plus
+    '🤡': 938334837708849194, #clown
+}
+
+EXCROLES = ()
+
+MAX_ROLES_PER_USER = 2
